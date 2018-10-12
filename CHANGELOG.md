@@ -1,3 +1,17 @@
+## [9.7.3](https://github.com/collab-ui/collab-ui-react/compare/v9.7.2...v9.7.3) (2018-10-11)
+
+
+### Bug Fixes
+
+* **avatar:** add hover/pressed states when clickable ([cfcfbb9](https://github.com/collab-ui/collab-ui-react/commit/cfcfbb9))
+
+## [9.7.2](https://github.com/collab-ui/collab-ui-react/compare/v9.7.1...v9.7.2) (2018-10-04)
+
+
+### Bug Fixes
+
+* **TopBar:** remove row class for alignment issues when TopBarNav not present ([e85f0d8](https://github.com/collab-ui/collab-ui-react/commit/e85f0d8))
+
 ## [9.7.1](https://github.com/collab-ui/collab-ui-react/compare/v9.7.0...v9.7.1) (2018-10-01)
 
 
